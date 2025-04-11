@@ -1,9 +1,9 @@
 # 👨‍💻💻zeck
 
-**`Desenvolvedoro FullStack`**
+**`Desenvolvedor FullStack`**
 **`Estudante de cybersecurity`**
 
-Sou zeck, Concluí o ensino médio, com o curso técnico em informática. Sou apaixonado por tecnologia, se quires me segui aqui vai um [lugra](www.instagram.com) .
+Sou zeck, Concluí o ensino médio, com o curso técnico em informática. Sou apaixonado por tecnologia e tudo que ela pode oferecer, futuro hacker etico.
 
 <p align="left">
         <a href="https://github.com/zeck7one?tab=stars">
